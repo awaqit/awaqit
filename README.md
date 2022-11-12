@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah Alzahrani
-- :telescope: I’m working as Sonior Full Stack Engnire & Technical Consaltan @ELM.sa 
+- :telescope: I’m working as Senior Full Stack Engineer & Associate Technical Consultant @ELM.sa 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdullah%20Alzahrani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awaqet/)
 
 <div>
